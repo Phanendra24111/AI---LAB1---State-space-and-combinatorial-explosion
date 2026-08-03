@@ -64,7 +64,7 @@ never be "half full" at the same time.
 
 ## How to run
 ```
-python3 water_jug_lab1.py
+python3 AI_LAB1.py
 ```
 ## Code Snippet of the output for the problem
 <img width="1385" height="195" alt="image" src="https://github.com/user-attachments/assets/fb31106f-88f7-46e2-85e9-cf874862f6a9" />
