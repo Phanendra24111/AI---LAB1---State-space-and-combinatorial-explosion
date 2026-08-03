@@ -1,0 +1,1 @@
+# AI---LAB1---State-space-and-combinatorial-explosion
