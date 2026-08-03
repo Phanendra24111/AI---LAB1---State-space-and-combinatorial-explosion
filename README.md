@@ -59,7 +59,7 @@ one jug either completely empty or completely full. So both jugs can
 never be "half full" at the same time.
 
 ## Files
-- water_jug_lab1.py - the code
+- AI_LAB1.py - the code
 - notes - my handwritten notes for this lab
 
 ## How to run
